@@ -1,0 +1,42 @@
+/* Centre the reading column and make it pleasantly readable */
+body {
+    margin: 0;
+    font-family: Georgia, "Times New Roman", serif;
+    line-height: 1.6;
+    background: #fdfdfd;
+    color: #222;
+  }
+  
+  #content {
+    max-width: 700px;
+    margin: 0 auto;
+    padding: 2rem 1rem 6rem;
+  }
+  
+  .chapter + .chapter { margin-top: 4rem; }
+  
+  h1 { text-align: center; }
+  
+  /* Dictionary side‑panel */
+  #dict‑panel {
+    position: fixed;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    width: 300px;
+    background: #fff;
+    border-left: 1px solid #ddd;
+    padding: 1rem;
+    overflow-y: auto;
+    box-shadow: -2px 0 8px rgba(0,0,0,0.05);
+  }
+  #dict‑panel h2 { margin-top: 0; }
+  #dict‑close {
+    position: absolute;
+    top: 0.5rem;
+    right: 0.5rem;
+    background: transparent;
+    border: 0;
+    font-size: 1.5rem;
+    cursor: pointer;
+  }
