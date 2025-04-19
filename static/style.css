@@ -40,3 +40,22 @@ body {
     font-size: 1.5rem;
     cursor: pointer;
   }
+
+/* centred nav bar */
+.mode‑nav {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+  padding: 1rem 0;
+  background: #fafafa;
+  border-bottom: 1px solid #e2e2e2;
+}
+.mode‑nav .btn {
+  text-decoration: none;
+  padding: 0.4rem 1rem;
+  border-radius: 4px;
+  font-weight: 600;
+  color: #444;
+}
+.mode‑nav .btn:hover { background:#eee; }
+.mode‑nav .active    { background:#222; color:#fff; } 

@@ -1,18 +1,28 @@
 <!doctype html>
 <html lang="en">
 <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>{% block title %}1984 – Digital Reading Demo{% endblock %}</title>
-    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}" />
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>1984 – {{ mode|capitalize }} Mode</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}" />
 </head>
 <body>
-    <main id="content">{% block content %}{% endblock %}</main>
+  <!-- centered navbar -->
+  <nav class="mode‑nav">
+    <a href="{{ url_for('pre') }}"      class="btn {{ 'active' if mode=='pre' }}">Pre‑Gutenberg</a>
+    <a href="{{ url_for('gutenberg') }}" class="btn {{ 'active' if mode=='gutenberg' }}">Gutenberg</a>
+    <a href="{{ url_for('post') }}"      class="btn {{ 'active' if mode=='post' }}">Post‑Gutenberg</a>
+  </nav>
+
+  <main id="content">{% block content %}{% endblock %}</main>
+
+  {% if dictionary_enabled %}
     <div id="dict‑panel" hidden>
-        <button id="dict‑close">×</button>
-        <h2 id="dict‑word"></h2>
-        <div id="dict‑definitions"></div>
+      <button id="dict‑close">×</button>
+      <h2 id="dict‑word"></h2>
+      <div id="dict‑definitions"></div>
     </div>
     <script src="{{ url_for('static', filename='dictionary.js') }}"></script>
+  {% endif %}
 </body>
 </html>

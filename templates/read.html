@@ -2,8 +2,8 @@
 {% block content %}
   {% for ch in chapters %}
     <article id="{{ ch.slug }}" class="chapter">
-        <h1>{{ ch.title }}</h1>
-        {{ ch.html|safe }}
+      <h1>{{ ch.title }}</h1>
+      {{ ch.html|safe }}
     </article>
   {% endfor %}
 {% endblock %}
