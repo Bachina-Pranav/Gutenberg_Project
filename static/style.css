@@ -119,4 +119,9 @@ body {
   pointer-events: none;
 }
 
+.user-highlight {
+  background: #fffd8c;   /* soft yellow */
+  cursor: pointer;       /* hint that it’s interactive (can remove) */
+  padding: 0 .05em;      /* tighten background around words */
+}
 
