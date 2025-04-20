@@ -1,7 +1,9 @@
 from pathlib import Path
 
-from flask import Flask, render_template, Markup, redirect, url_for
+from flask import Flask, render_template, redirect, url_for
 from markdown import markdown
+from markupsafe import Markup
+
 
 app = Flask(__name__)
 CHAPTER_DIR = Path(__file__).parent / "chapters"

@@ -1,4 +1,38 @@
 {% extends "layout.html" %}
+
 {% block content %}
+  <!-- 🎵 Audio Controls -->
+  <div style="margin-bottom: 20px;">
+    <audio id="audio" src="{{ url_for('static', filename='audio/sound.mp3') }}"></audio>
+
+    <button id="play-btn">Play</button>
+    <button id="pause-btn">Pause</button>
+    <input type="range" id="progress-bar" value="0" max="100" step="0.1" style="width: 300px;" />
+  </div>
+
+  <!-- 📜 Poem Content -->
   <article class="poem">{{ poem|safe }}</article>
+
+  <!-- 🎧 Audio Script -->
+  <script>
+    const audio = document.getElementById('audio');
+    const playBtn = document.getElementById('play-btn');
+    const pauseBtn = document.getElementById('pause-btn');
+    const progressBar = document.getElementById('progress-bar');
+
+    // Play & Pause
+    playBtn.addEventListener('click', () => audio.play());
+    pauseBtn.addEventListener('click', () => audio.pause());
+
+    // Update progress bar as audio plays
+    audio.addEventListener('timeupdate', () => {
+      const percent = (audio.currentTime / audio.duration) * 100;
+      progressBar.value = percent || 0;
+    });
+
+    // Seek when progress bar is changed
+    progressBar.addEventListener('input', () => {
+      audio.currentTime = (progressBar.value / 100) * audio.duration;
+    });
+  </script>
 {% endblock %}

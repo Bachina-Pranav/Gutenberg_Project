@@ -31,6 +31,7 @@
        wordElt.textContent = selection;
        defElt.innerHTML = defs.map(m => `<p><em>${m.partOfSpeech}</em>: ${m.definitions[0].definition}</p>`).join("");
        panel.hidden = false;
+       window.getSelection().removeAllRanges(); // now you don't need to click elsewhere to close the dictionary popup
      })
      .catch(console.error);
  });
