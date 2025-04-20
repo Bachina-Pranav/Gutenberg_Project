@@ -125,3 +125,44 @@ body {
   padding: 0 .05em;      /* tighten background around words */
 }
 
+/* —— static community‑note UI ——————————————————————————— */
+.note-wrapper {
+  position: relative;          /* establishes containing block */
+  display: inline-block;       /* keeps width tight to the anchor */
+}
+
+.note-anchor {
+  background: #ffffd2;
+  transition: background 0.3s;
+}
+.note-anchor:hover {
+  background: #fff08b;
+}
+
+/* sticky yellow note */
+.note-card {
+  position: sticky;
+  top: 1rem;                   /* sticks 1 rem below viewport top */
+  left: calc(100% + 18px);     /* 18 px gap to the right of anchor */
+  width: 240px;
+  padding: .75rem .9rem .9rem;
+  background: #fffbe6;
+  border-left: 4px solid #ffd447;
+  box-shadow: 0 2px 6px rgba(0,0,0,.15);
+  font-size: .85rem;
+  line-height: 1.4;
+  z-index: 10;
+}
+
+/* little arrow pointing back at the text */
+.note-card::before {
+  content: "";
+  position: absolute;
+  left: -8px;
+  top: 12px;
+  border-width: 6px 8px 6px 0;
+  border-style: solid;
+  border-color: transparent #ffd447 transparent transparent;
+}
+
+
