@@ -3,6 +3,7 @@ from pathlib import Path
 from flask import Flask, render_template, redirect, url_for
 from markdown import markdown
 from markupsafe import Markup
+import re
 
 
 app = Flask(__name__)
@@ -55,6 +56,14 @@ def pre():
         mode="pre",
     )
 
+@app.template_filter('strip_links')
+def strip_links(html: str) -> Markup:
+    """
+    Remove every <a>…</a> wrapper, leaving only the link text.
+    """
+    # regex: replace <a ...>inner</a> with inner
+    stripped = re.sub(r'<a[^>]*>(.*?)</a>', r'\1', html, flags=re.DOTALL)
+    return Markup(stripped)
 
 if __name__ == "__main__":
     app.run(debug=True)
