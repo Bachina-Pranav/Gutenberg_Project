@@ -3,7 +3,13 @@
   {% for ch in chapters %}
     <article id="{{ ch.slug }}" class="chapter">
       <h1>{{ ch.title }}</h1>
-      {{ ch.html|safe }}
+
+      {% if dictionary_enabled %}
+        {{ ch.html|safe }}
+      {% else %}
+        {{ ch.html|strip_links|safe }}
+      {% endif %}
+
     </article>
   {% endfor %}
 {% endblock %}
