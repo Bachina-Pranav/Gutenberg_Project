@@ -67,3 +67,13 @@ body {
   border: 1px solid #ddd;
   margin-bottom: 2rem;
 }
+
+@keyframes flash-highlight {
+  0%   { background-color: #ffff99; }
+  80%  { background-color: #ffff99; }
+  100% { background-color: transparent; }
+}
+
+.highlight {
+  animation: flash-highlight 2s ease-out;
+}

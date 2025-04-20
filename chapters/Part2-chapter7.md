@@ -211,7 +211,8 @@ they could make me stop loving you—that would be the
 real betrayal.’
 She thought it over. ‘They can’t do that,’ she said finally. ‘It’s the one thing they can’t do. They can make you say
 anything—ANYTHING—but they can’t make you believe
-it. They can’t get inside you.’
+it.<a id="turning-point"
+      style="text-decoration: underline; background-color: #ffff99;">They can’t get inside you.’</a>
 ‘No,’ he said a little more hopefully, ‘no; that’s quite true.
 They can’t get inside you. If you can FEEL that staying human is worth while, even when it can’t have any result
 whatever, you’ve beaten them.’

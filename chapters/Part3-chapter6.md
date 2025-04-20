@@ -97,7 +97,7 @@ again. Almost unconsciously he traced with his finger in
 the dust on the table:
 Free eBooks at Planet eBook.com 367
 2+2=5
-‘They can’t get inside you,’ she had said. But they could
+‘[They can’t get inside you](Part2-chapter7#turning-point),’ she had said. But they could
 get inside you. ‘What happens to you here is FOR EVER,’
 O’Brien had said. That was a true word. There were things,
 your own acts, from which you could never recover. Something was killed in your breast: burnt out, cauterized out.

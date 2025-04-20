@@ -5,6 +5,11 @@
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>1984 – {{ mode|capitalize }} Mode</title>
   <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}" />
+  <style>
+    html {
+      scroll-behavior: smooth;
+    }
+  </style>
 </head>
 <body>
   <!-- centered navbar -->
@@ -24,5 +29,25 @@
     </div>
     <script src="{{ url_for('static', filename='dictionary.js') }}"></script>
   {% endif %}
+
+  <script>
+    function flashAnchor() {
+      const hash = window.location.hash;
+      if (!hash) return;
+      const target = document.querySelector(hash);
+      if (!target) return;
+      target.classList.add("highlight");
+      // clean up after 2s so it can flash again on next jump
+      setTimeout(() => target.classList.remove("highlight"), 2000);
+    }
+  
+    // run on the very first load (in case URL already has a #frag)
+    document.addEventListener("DOMContentLoaded", flashAnchor);
+    // run again whenever the hash changes (i.e. clicking an in‑page link)
+    window.addEventListener("hashchange", flashAnchor);
+  </script>
+  
+    
+
 </body>
 </html>
