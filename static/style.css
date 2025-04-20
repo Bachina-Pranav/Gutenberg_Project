@@ -77,3 +77,46 @@ body {
 .highlight {
   animation: flash-highlight 2s ease-out;
 }
+
+/* ─── Fancy Party‑slogan highlight ───────────────────────────── */
+
+.highlight-block {
+  position: relative;
+  margin: 2rem 0;
+  padding: 1rem 1.5rem;
+  border-left: 6px solid #c41230;        /* Party red bar */
+  background: #fff6f0;                   /* very light red‑orange */
+  font-weight: 600;
+  line-height: 1.5;
+  border-radius: 4px;
+  transition: box-shadow 0.3s ease;
+  animation: party-flash 2s ease-out;
+}
+
+.highlight-block:hover {
+  /* faint shimmer on hover */
+  box-shadow: 0 0 0 4px #ffd6d6;
+}
+
+@keyframes party-flash {
+  0%   { box-shadow: 0 0 12px 4px rgba(196,18,48,0.7); }
+  70%  { box-shadow: 0 0 12px 4px rgba(196,18,48,0.7); }
+  100% { box-shadow: none; }
+}
+
+.highlight-badge {
+  position: absolute;
+  top: -12px;
+  right: -12px;
+  background: #c41230;       /* Party red */
+  color: #fff;
+  font-size: 0.75rem;
+  font-weight: 700;
+  padding: 0.25rem 0.5rem;
+  border-radius: 999px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.15);
+  user-select: none;
+  pointer-events: none;
+}
+
+
