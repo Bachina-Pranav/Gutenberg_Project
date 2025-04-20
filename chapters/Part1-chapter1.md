@@ -1,15 +1,15 @@
-It was a bright cold day in April, and the clocks were striking thirteen. Winston Smith, his chin nuzzled into his
+It was a bright cold day in April, and the clocks were striking thirteen. [Winston](https://classic-literature.fandom.com/wiki/Winston_Smith) Smith, his chin nuzzled into his
 breast in an effort to escape the vile wind, slipped quickly
 through the glass doors of Victory Mansions, though not
 quickly enough to prevent a swirl of gritty dust from entering along with him.
 The hallway smelt of boiled cabbage and old rag mats. At
 one end of it a coloured poster, too large for indoor display,
 had been tacked to the wall. It depicted simply an enormous face, more than a metre wide: the face of a man of
-about forty-five, with a heavy black moustache and ruggedly handsome features. Winston made for the stairs. It was
+about forty-five, with a heavy black moustache and ruggedly handsome features. [Winston](https://classic-literature.fandom.com/wiki/Winston_Smith) made for the stairs. It was
 no use trying the lift. Even at the best of times it was seldom working, and at present the electric current was cut
 off during daylight hours. It was part of the economy drive
 in preparation for Hate Week. The flat was seven flights up,
-and Winston, who was thirty-nine and had a varicose ulcer
+and [Winston](https://classic-literature.fandom.com/wiki/Winston_Smith), who was thirty-nine and had a varicose ulcer
 above his right ankle, went slowly, resting several times on
 the way. On each landing, opposite the lift-shaft, the poster
 with the enormous face gazed from the wall. It was one of
@@ -19,7 +19,7 @@ YOU, the caption beneath it ran.
 Inside the flat a fruity voice was reading out a list of figures which had something to do with the production of
 pig-iron. The voice came from an oblong metal plaque like
 a dulled mirror which formed part of the surface of the
-right-hand wall. Winston turned a switch and the voice
+right-hand wall. [Winston](https://classic-literature.fandom.com/wiki/Winston_Smith) turned a switch and the voice
 sank somewhat, though the words were still distinguishable. The instrument (the telescreen, it was called) could be
 dimmed, but there was no way of shutting it off completely. He moved over to the window: a smallish, frail figure,
 the meagreness of his body merely emphasized by the blue
@@ -35,14 +35,14 @@ plastered everywhere. The blackmoustachio’d face gazed
 down from every commanding corner. There was one on
 the house-front immediately opposite. BIG BROTHER IS
 WATCHING YOU, the caption said, while the dark eyes
-looked deep into Winston’s own. Down at street level another poster, torn at one corner, flapped fitfully in the wind,
+looked deep into [Winston](https://classic-literature.fandom.com/wiki/Winston_Smith)’s own. Down at street level another poster, torn at one corner, flapped fitfully in the wind,
 alternately covering and uncovering the single word INGSOC. In the far distance a helicopter skimmed down
 between the roofs, hovered for an instant like a bluebottle,
 and darted away again with a curving flight. It was the police patrol, snooping into people’s windows. The patrols did not matter, however. Only the Thought Police mattered.
-Behind Winston’s back the voice from the telescreen was
+Behind [Winston](https://classic-literature.fandom.com/wiki/Winston_Smith)’s back the voice from the telescreen was
 still babbling away about pig-iron and the overfulfilment
 of the Ninth Three-Year Plan. The telescreen received and
-transmitted simultaneously. Any sound that Winston made,
+transmitted simultaneously. Any sound that [Winston](https://classic-literature.fandom.com/wiki/Winston_Smith) made,
 above the level of a very low whisper, would be picked up by
 it, moreover, so long as he remained within the field of vision which the metal plaque commanded, he could be seen
 as well as heard. There was of course no way of knowing
@@ -54,7 +54,7 @@ they could plug in your wire whenever they wanted to. You
 had to live—did live, from habit that became instinct—in
 the assumption that every sound you made was overheard,
 and, except in darkness, every movement scrutinized.
-Winston kept his back turned to the telescreen. It was
+[Winston](https://classic-literature.fandom.com/wiki/Winston_Smith) kept his back turned to the telescreen. It was
 safer, though, as he well knew, even a back can be revealing.
 A kilometre away the Ministry of Truth, his place of work,
 towered vast and white above the grimy landscape. This,
@@ -72,7 +72,7 @@ unintelligible.
 The Ministry of Truth—Minitrue, in Newspeak [Newspeak was the official language of Oceania. For an account
 of its structure and etymology see Appendix.]—was startlingly different from any other object in sight. It was an
 enormous pyramidal structure of glittering white concrete, soaring up, terrace after terrace, 300 metres into the
-air. From where Winston stood it was just possible to read,
+air. From where [Winston](https://classic-literature.fandom.com/wiki/Winston_Smith) stood it was just possible to read,
 picked out on its white face in elegant lettering, the three
 slogans of the Party:
 WAR IS PEACE
@@ -92,14 +92,14 @@ order. And the Ministry of Plenty, which was responsible
 for economic affairs. Their names, in Newspeak: Minitrue,
 Minipax, Miniluv, and Miniplenty.
 The Ministry of Love was the really frightening one.
-There were no windows in it at all. Winston had never been
+There were no windows in it at all. [Winston](https://classic-literature.fandom.com/wiki/Winston_Smith) had never been
 inside the Ministry of Love, nor within half a kilometre of it.
 It was a place impossible to enter except on official business,
 and then only by penetrating through a maze of barbedwire entanglements, steel doors, and hidden machine-gun
 nests. Even the streets leading up to its outer barriers were
 roamed by gorilla-faced guards in black uniforms, armed
 with jointed truncheons.
-Winston turned round abruptly. He had set his features
+[Winston](https://classic-literature.fandom.com/wiki/Winston_Smith) turned round abruptly. He had set his features
 into the expression of quiet optimism which it was advisable to wear when facing the telescreen. He crossed the
 room into the tiny kitchen. By leaving the Ministry at this
 time of day he had sacrificed his lunch in the canteen, and
@@ -108,7 +108,7 @@ a hunk of dark-coloured bread which had got to be saved
 for tomorrow’s breakfast. He took down from the shelf a
 bottle of colourless liquid with a plain white label marked
 VICTORY GIN. It gave off a sickly, oily smell, as of Chinese
-rice-spirit. Winston poured out nearly a teacupful, nerved himself for a shock, and gulped it down like a dose of medicine.
+rice-spirit. [Winston](https://classic-literature.fandom.com/wiki/Winston_Smith) poured out nearly a teacupful, nerved himself for a shock, and gulped it down like a dose of medicine.
 Instantly his face turned scarlet and the water ran out
 of his eyes. The stuff was like nitric acid, and moreover, in
 swallowing it one had the sensation of being hit on the back
@@ -126,10 +126,10 @@ For some reason the telescreen in the living-room was in
 an unusual position. Instead of being placed, as was normal,
 in the end wall, where it could command the whole room,
 it was in the longer wall, opposite the window. To one side
-of it there was a shallow alcove in which Winston was now
+of it there was a shallow alcove in which [Winston](https://classic-literature.fandom.com/wiki/Winston_Smith) was now
 sitting, and which, when the flats were built, had probably
 been intended to hold bookshelves. By sitting in the alcove,
-and keeping well back, Winston was able to remain outside
+and keeping well back, [Winston](https://classic-literature.fandom.com/wiki/Winston_Smith) was able to remain outside
 the range of the telescreen, so far as sight went. He could
 be heard, of course, but so long as he stayed in his present
 position he could not be seen. It was partly the unusual geography of the room that had suggested to him the thing
@@ -154,7 +154,7 @@ written in it, it was a compromising possession.
 The thing that he was about to do was to open a diary.
 This was not illegal (nothing was illegal, since there were no
 longer any laws), but if detected it was reasonably certain
-that it would be punished by death, or at least by twentyfive years in a forced-labour camp. Winston fitted a nib into
+that it would be punished by death, or at least by twentyfive years in a forced-labour camp. [Winston](https://classic-literature.fandom.com/wiki/Winston_Smith) fitted a nib into
 the penholder and sucked it to get the grease off. The pen
 was an archaic instrument, seldom used even for signatures,
 and he had procured one, furtively and with some difficulty,
@@ -226,15 +226,15 @@ aint right not in front of kids it aint until the police turned
 her turned her out i dont suppose anything happened to her
 nobody cares what the proles say typical prole reaction they
 never——
-Winston stopped writing, partly because he was suffering from cramp. He did not know what had made him pour
+[Winston](https://classic-literature.fandom.com/wiki/Winston_Smith) stopped writing, partly because he was suffering from cramp. He did not know what had made him pour
 out this stream of rubbish. But the curious thing was that
 while he was doing so a totally different memory had clarified itself in his mind, to the point where he almost felt
 equal to writing it down. It was, he now realized, because
 of this other incident that he had suddenly decided to come home and begin the diary today.
 It had happened that morning at the Ministry, if anything so nebulous could be said to happen.
-It was nearly eleven hundred, and in the Records Department, where Winston worked, they were dragging the
+It was nearly eleven hundred, and in the Records Department, where [Winston](https://classic-literature.fandom.com/wiki/Winston_Smith) worked, they were dragging the
 chairs out of the cubicles and grouping them in the centre of the hall opposite the big telescreen, in preparation for
-the Two Minutes Hate. Winston was just taking his place
+the Two Minutes Hate. [Winston](https://classic-literature.fandom.com/wiki/Winston_Smith) was just taking his place
 in one of the middle rows when two people whom he knew
 by sight, but had never spoken to, came unexpectedly into
 the room. One of them was a girl whom he often passed in
@@ -246,7 +246,7 @@ twenty-seven, with thick hair, a freckled face, and swift,
 athletic movements. A narrow scarlet sash, emblem of the
 Junior Anti-Sex League, was wound several times round
 the waist of her overalls, just tightly enough to bring out the
-shapeliness of her hips. Winston had disliked her from the
+shapeliness of her hips. [Winston](https://classic-literature.fandom.com/wiki/Winston_Smith) had disliked her from the
 very first moment of seeing her. He knew the reason. It was
 because of the atmosphere of hockey-fields and cold baths
 and community hikes and general clean-mindedness which
@@ -263,7 +263,7 @@ was true, was very unlikely. Still, he continued to feel a peculiar uneasiness, 
 hostility, whenever she was anywhere near him.
 The other person was a man named O’Brien, a member
 of the Inner Party and holder of some post so important
-and remote that Winston had only a dim idea of its nature.
+and remote that [Winston](https://classic-literature.fandom.com/wiki/Winston_Smith) had only a dim idea of its nature.
 A momentary hush passed over the group of people round
 the chairs as they saw the black overalls of an Inner Party
 member approaching. O’Brien was a large, burly man with
@@ -271,7 +271,7 @@ a thick neck and a coarse, humorous, brutal face. In spite of
 his formidable appearance he had a certain charm of manner. He had a trick of resettling his spectacles on his nose
 which was curiously disarming—in some indefinable way,
 curiously civilized. It was a gesture which, if anyone had
-still thought in such terms, might have recalled an eighteenth-century nobleman offering his snuffbox. Winston
+still thought in such terms, might have recalled an eighteenth-century nobleman offering his snuffbox. [Winston](https://classic-literature.fandom.com/wiki/Winston_Smith)
 had seen O’Brien perhaps a dozen times in almost as many
 years. He felt deeply drawn to him, and not solely because
 he was intrigued by the contrast between O’Brien’s urbane
@@ -281,14 +281,14 @@ not perfect. Something in his face suggested it irresistibly.And again, perhaps 
 written in his face, but simply intelligence. But at any rate
 he had the appearance of being a person that you could
 talk to if somehow you could cheat the telescreen and get
-him alone. Winston had never made the smallest effort to
+him alone. [Winston](https://classic-literature.fandom.com/wiki/Winston_Smith) had never made the smallest effort to
 verify this guess: indeed, there was no way of doing so. At
 this moment O’Brien glanced at his wrist-watch, saw that it
 was nearly eleven hundred, and evidently decided to stay in
 the Records Department until the Two Minutes Hate was
-over. He took a chair in the same row as Winston, a couple
+over. He took a chair in the same row as [Winston](https://classic-literature.fandom.com/wiki/Winston_Smith), a couple
 of places away. A small, sandy-haired woman who worked
-in the next cubicle to Winston was between them. The girl
+in the next cubicle to [Winston](https://classic-literature.fandom.com/wiki/Winston_Smith) was between them. The girl
 with dark hair was sitting immediately behind.
 The next moment a hideous, grinding speech, as of some
 monstrous machine running without oil, burst from the
@@ -310,7 +310,7 @@ of his teaching. Somewhere or other he was still alive and
 hatching his conspiracies: perhaps somewhere beyond the
 sea, under the protection of his foreign paymasters, perhaps
 even—so it was occasionally rumoured—in some hidingplace in Oceania itself.
-Winston’s diaphragm was constricted. He could never
+[Winston](https://classic-literature.fandom.com/wiki/Winston_Smith)’s diaphragm was constricted. He could never
 see the face of Goldstein without a painful mixture of emotions. It was a lean Jewish face, with a great fuzzy aureole of
 white hair and a small goatee beard—a clever face, and yet
 somehow inherently despicable, with a kind of senile silliness in the long thin nose, near the end of which a pair
@@ -368,9 +368,9 @@ her mouth was opening and shutting like that of a landed
 fish. Even O’Brien’s heavy face was flushed. He was sitting
 very straight in his chair, his powerful chest swelling and
 quivering as though he were standing up to the assault of a
-wave. The dark-haired girl behind Winston had begun crying out ‘Swine! Swine! Swine!’ and suddenly she picked up
+wave. The dark-haired girl behind [Winston](https://classic-literature.fandom.com/wiki/Winston_Smith) had begun crying out ‘Swine! Swine! Swine!’ and suddenly she picked up
 a heavy Newspeak dictionary and flung it at the screen. It
-struck Goldstein’s nose and bounced off; the voice continued inexorably. In a lucid moment Winston found that he
+struck Goldstein’s nose and bounced off; the voice continued inexorably. In a lucid moment [Winston](https://classic-literature.fandom.com/wiki/Winston_Smith) found that he
 was shouting with the others and kicking his heel violently against the rung of his chair. The horrible thing about
 the Two Minutes Hate was not that one was obliged to act a part, but, on the contrary, that it was impossible to avoid
 joining in. Within thirty seconds any pretence was always
@@ -380,7 +380,7 @@ like an electric current, turning one even against one’s will
 into a grimacing, screaming lunatic. And yet the rage that
 one felt was an abstract, undirected emotion which could
 be switched from one object to another like the flame of a
-blowlamp. Thus, at one moment Winston’s hatred was not
+blowlamp. Thus, at one moment [Winston](https://classic-literature.fandom.com/wiki/Winston_Smith)’s hatred was not
 turned against Goldstein at all, but, on the contrary, against
 Big Brother, the Party, and the Thought Police; and at such
 moments his heart went out to the lonely, derided heretic
@@ -396,7 +396,7 @@ about his very existence, seemed like some sinister enchanter, capable by the me
 structure of civilization.
 It was even possible, at moments, to switch one’s hatred this way or that by a voluntary act. Suddenly, by the
 sort of violent effort with which one wrenches one’s head
-away from the pillow in a nightmare, Winston succeeded
+away from the pillow in a nightmare, [Winston](https://classic-literature.fandom.com/wiki/Winston_Smith) succeeded
 in transferring his hatred from the face on the screen tothe dark-haired girl behind him. Vivid, beautiful hallucinations flashed through his mind. He would flog her to death
 with a rubber truncheon. He would tie her naked to a stake
 and shoot her full of arrows like Saint Sebastian. He would
@@ -439,7 +439,7 @@ to hear the stamp of naked feet and the throbbing of tomtoms. For perhaps as muc
 up. It was a refrain that was often heard in moments of
 overwhelming emotion. Partly it was a sort of hymn to the
 wisdom and majesty of Big Brother, but still more it was
-an act of self-hypnosis, a deliberate drowning of consciousness by means of rhythmic noise. Winston’s entrails seemed
+an act of self-hypnosis, a deliberate drowning of consciousness by means of rhythmic noise. [Winston](https://classic-literature.fandom.com/wiki/Winston_Smith)’s entrails seemed
 to grow cold. In the Two Minutes Hate he could not help
 sharing in the general delirium, but this sub-human chant-ing of ‘B-B!...B-B!’ always filled him with horror. Of course
 he chanted with the rest: it was impossible to do otherwise.
@@ -453,7 +453,7 @@ Momentarily he caught O’Brien’s eye. O’Brien had stood
 up. He had taken off his spectacles and was in the act of
 resettling them on his nose with his characteristic gesture.
 But there was a fraction of a second when their eyes met,
-and for as long as it took to happen Winston knew—yes, he
+and for as long as it took to happen [Winston](https://classic-literature.fandom.com/wiki/Winston_Smith) knew—yes, he
 KNEW!—that O’Brien was thinking the same thing as himself. An unmistakable message had passed. It was as though
 their two minds had opened and the thoughts were flowing
 from one into the other through their eyes. ‘I am with you,’
@@ -480,7 +480,7 @@ dangerous even if he had known how to set about doing it.
 For a second, two seconds, they had exchanged an equivocal glance, and that was the end of the story. But even that
 was a memorable event, in the locked loneliness in which
 one had to live.
-Winston roused himself and sat up straighter. He let out
+[Winston](https://classic-literature.fandom.com/wiki/Winston_Smith) roused himself and sat up straighter. He let out
 a belch. The gin was rising from his stomach.
 His eyes re-focused on the page. He discovered that
 while he sat helplessly musing he had also been writing, as
