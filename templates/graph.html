@@ -1,0 +1,8 @@
+{% extends "layout.html" %}
+{% block content %}
+  <h1 style="text-align:center">1984 – Chapter Graph</h1>
+  <div id="network"></div>
+  <script src="https://unpkg.com/vis-network/standalone/umd/vis-network.min.js"></script>
+  <script id="graph-data" type="application/json">{{ graph_json|safe }}</script>
+  <script src="{{ url_for('static', filename='graph.js') }}"></script>
+{% endblock %}
