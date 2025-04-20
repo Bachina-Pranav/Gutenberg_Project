@@ -11,7 +11,7 @@
   <nav class="mode‑nav">
     <a href="{{ url_for('pre') }}"      class="btn {{ 'active' if mode=='pre' }}">Pre‑Gutenberg</a>
     <a href="{{ url_for('gutenberg') }}" class="btn {{ 'active' if mode=='gutenberg' }}">Gutenberg</a>
-    <a href="{{ url_for('post') }}"      class="btn {{ 'active' if mode=='post' }}">Post‑Gutenberg</a>
+    <a href="{{ url_for('post_graph') }}" class="btn {{ 'active' if mode=='post' }}">Post‑Gutenberg</a>
   </nav>
 
   <main id="content">{% block content %}{% endblock %}</main>

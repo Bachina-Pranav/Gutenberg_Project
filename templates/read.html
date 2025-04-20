@@ -1,9 +1,16 @@
 {% extends "layout.html" %}
 {% block content %}
+
+  {# “Back to graph” link for single‑chapter post mode #}
+  {% if mode == 'post' and chapters|length == 1 %}
+    <p><a href="{{ url_for('post_graph') }}">← Back to graph</a></p>
+  {% endif %}
+
   {% for ch in chapters %}
     <article id="{{ ch.slug }}" class="chapter">
       <h1>{{ ch.title }}</h1>
 
+      {# render with or without links #}
       {% if dictionary_enabled %}
         {{ ch.html|safe }}
       {% else %}
@@ -12,4 +19,5 @@
 
     </article>
   {% endfor %}
+
 {% endblock %}
