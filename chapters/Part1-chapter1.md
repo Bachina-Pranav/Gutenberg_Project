@@ -75,9 +75,16 @@ enormous pyramidal structure of glittering white concrete, soaring up, terrace a
 air. From where [Winston](https://classic-literature.fandom.com/wiki/Winston_Smith) stood it was just possible to read,
 picked out on its white face in elegant lettering, the three
 slogans of the Party:
-WAR IS PEACE
-FREEDOM IS SLAVERY
-IGNORANCE IS STRENGTH
+<div id="party-slogan" class="highlight-block">
+  WAR IS PEACE<br/>
+  FREEDOM IS SLAVERY<br/>
+  IGNORANCE IS STRENGTH
+
+  <span class="highlight-badge" title="Most highlighted section">
+    ★ 29,294 people highlighted this
+  </span>
+</div>
+
 The Ministry of Truth contained, it was said, three
 thousand rooms above ground level, and corresponding
 ramifications below. Scattered about London there were
