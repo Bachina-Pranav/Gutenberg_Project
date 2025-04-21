@@ -3,7 +3,7 @@
 The Last Victory
 
 In the shadow of the iron sky,<br>
-[Winston](https://classic-literature.fandom.com/wiki/Winston_Smith) sat, his heart a stone,<br>
+Winston sat, his heart a stone,<br>
 The chestnut tree’s roots deep in the lie,<br>
 Where a man must kneel, and call it home.<br><br>
 
@@ -18,7 +18,7 @@ The heart, the mind, the will, the name,<br>
 All burned in the eternal flame.<br><br>
 
 Remember the stars, the coral bright,<br>
-[Winston](https://classic-literature.fandom.com/wiki/Winston_Smith) once dreamed of the morning light,<br>
+Winston once dreamed of the morning light,<br>
 But dreams were stolen, truths were bent,<br>
 And there, inside, was where it went.<br><br>
 
@@ -40,7 +40,7 @@ His heart bowed low to the Party’s will.<br><br>
 The chestnut tree no longer whispers,<br>
 The love he sought, the hope that flickers,<br>
 Gone, erased, like dust in the air,<br>
-Big Brother reigns, and [Winston](https://classic-literature.fandom.com/wiki/Winston_Smith)'s there.<br><br>
+Big Brother reigns, and Winston's there.<br><br>
 
 He loved Big Brother, he loved Big Brother,<br>
 A soul erased, the last breath smothered.<br>
