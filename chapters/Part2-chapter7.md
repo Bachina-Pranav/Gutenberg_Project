@@ -39,9 +39,7 @@ over the bad patches in the road, sometimes spilt a few fragments of oil-cake.
 When his father disappeared, his mother did not show
 any surprise or any violent grief, but a sudden change came
 over her. She seemed to have become completely spiritless.
-It was evident even to [Winston](https://classic-literature.fandom.com/wiki/Winston_Smith) that she was waiting for 
-204 1984
-something that she knew must happen. She did everything
+It was evident even to [Winston](https://classic-literature.fandom.com/wiki/Winston_Smith) that she was waiting for something that she knew must happen. She did everything
 that was needed—cooked, washed, mended, made the bed,
 swept the floor, dusted the mantelpiece—always very slowly
 and with a curious lack of superfluous motion, like an artist’s lay-figure moving of its own accord. Her large shapely
@@ -65,9 +63,7 @@ shout and storm at her (he even remembered the tones of
 his voice, which was beginning to break prematurely and
 sometimes boomed in a peculiar way), or he would attempt
 a snivelling note of pathos in his efforts to get more than his
-share. His mother was quite ready to give him more than 
-Free eBooks at Planet eBook.com 205
-his share. She took it for granted that he, ‘the boy’, should
+share. His mother was quite ready to give him more than his share. She took it for granted that he, ‘the boy’, should
 have the biggest portion; but however much she gave him
 he invariably demanded more. At every meal she would beseech him not to be selfish and to remember that his little
 sister was sick and also needed food, but it was no use. He
@@ -91,9 +87,7 @@ round, with shouts, whines, tears, remonstrances, bargainings. His tiny sister, 
 exactly like a baby monkey, sat looking over her shoulder at
 him with large, mournful eyes. In the end his mother broke
 off three-quarters of the chocolate and gave it to [Winston](https://classic-literature.fandom.com/wiki/Winston_Smith),
-giving the other quarter to his sister. The little girl took hold 
-206 1984
-of it and looked at it dully, perhaps not knowing what it was.
+giving the other quarter to his sister. The little girl took hold of it and looked at it dully, perhaps not knowing what it was.
 [Winston](https://classic-literature.fandom.com/wiki/Winston_Smith) stood watching her for a moment. Then with a
 sudden swift spring he had snatched the piece of chocolate
 out of his sister’s hand and was fleeing for the door.
@@ -118,9 +112,7 @@ had merely been sent to a forced-labour camp. As for his
 sister, she might have been removed, like [Winston](https://classic-literature.fandom.com/wiki/Winston_Smith) himself,
 to one of the colonies for homeless children (Reclamation
 Centres, they were called) which had grown up as a result
-of the civil war, or she might have been sent to the labour 
-Free eBooks at Planet eBook.com 207
-camp along with his mother, or simply left somewhere or
+of the civil war, or she might have been sent to the labour camp along with his mother, or simply left somewhere or
 other to die.
 The dream was still vivid in his mind, especially the enveloping protecting gesture of the arm in which its whole
 meaning seemed to be contained. His mind went back to
@@ -146,9 +138,7 @@ occurred to her that an action which is ineffectual thereby
 becomes meaningless. If you loved someone, you loved him,
 and when you had nothing else to give, you still gave him
 love. When the last of the chocolate was gone, his mother
-had clasped the child in her arms. It was no use, it changed 
-208 1984
-nothing, it did not produce more chocolate, it did not avert
+had clasped the child in her arms. It was no use, it changed nothing, it did not produce more chocolate, it did not avert
 the child’s death or her own; but it seemed natural to her to
 do it. The refugee woman in the boat had also covered the
 little boy with her arm, which was no more use against the
@@ -170,9 +160,7 @@ an idea, they were loyal to one another. For the first time in
 his life he did not despise the proles or think of them merely
 as an inert force which would one day spring to life and regenerate the world. The proles had stayed human. They had
 not become hardened inside. They had held on to the primitive emotions which he himself had to re-learn by conscious
-effort. And in thinking this he remembered, without apparent relevance, how a few weeks ago he had seen a severed 
-Free eBooks at Planet eBook.com 209
-hand lying on the pavement and had kicked it into the gutter as though it had been a cabbage-stalk.
+effort. And in thinking this he remembered, without apparent relevance, how a few weeks ago he had seen a severed hand lying on the pavement and had kicked it into the gutter as though it had been a cabbage-stalk.
 ‘The proles are human beings,’ he said aloud. ‘We are not
 human.’
 ‘Why not?’ said [Julia](https://classic-literature.fandom.com/wiki/Julia), who had woken up again.
@@ -199,9 +187,7 @@ Nothing that I can do or say, or stop myself from saying, will
 put off your death for as much as five minutes. Neither of us
 will even know whether the other is alive or dead. We shall
 be utterly without power of any kind. The one thing that
-matters is that we shouldn’t betray one another, although 
-210 1984
-even that can’t make the slightest difference.’
+matters is that we shouldn’t betray one another, although even that can’t make the slightest difference.’
 ‘If you mean confessing,’ she said, ‘we shall do that, right
 enough. Everybody always confesses. You can’t help it. They
 torture you.’
@@ -226,9 +212,7 @@ registered your nervous reactions, gradual wearing-down
 by sleeplessness and solitude and persistent questioning.
 Facts, at any rate, could not be kept hidden. They could be
 tracked down by enquiry, they could be squeezed out of you
-by torture. But if the object was not to stay alive but to stay 
-Free eBooks at Planet eBook.com 211
-human, what difference did it ultimately make? They could
+by torture. But if the object was not to stay alive but to stay human, what difference did it ultimately make? They could
 not alter your feelings: for that matter you could not alter
 them yourself, even if you wanted to. They could lay bare in
 the utmost detail everything that you had done or said or

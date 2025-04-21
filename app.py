@@ -1,7 +1,8 @@
 from pathlib import Path
 import json
-from flask import Flask, render_template, Markup, url_for, redirect
+from flask import Flask, render_template, url_for, redirect
 from markdown import markdown
+from markupsafe import Markup
 
 app = Flask(__name__)
 CHAPTER_DIR = Path(__file__).parent / "chapters"

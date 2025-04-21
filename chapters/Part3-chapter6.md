@@ -17,9 +17,7 @@ about it all day. A Eurasian army (Oceania was at war with
 Eurasia: Oceania had always been at war with Eurasia) was
 moving southward at terrifying speed. The mid-day bulletin had not mentioned any definite area, but it was probable
 that already the mouth of the Congo was a battlefield. Brazzaville and Leopoldville were in danger. One did not have
-to look at the map to see what it meant. It was not merely 
-364 1984
-a question of losing Central Africa: for the first time in the
+to look at the map to see what it meant. It was not merely a question of losing Central Africa: for the first time in the
 whole war, the territory of Oceania itself was menaced.
 A violent emotion, not fear exactly but a sort of undifferentiated excitement, flared up in him, then faded again.
 He stopped thinking about the war. In these days he could
@@ -44,9 +42,7 @@ Times’, with the page turned down at the chess problem.
 Then, seeing that [Winston](https://classic-literature.fandom.com/wiki/Winston_Smith)’s glass was empty, he brought the
 gin bottle and filled it. There was no need to give orders.
 They knew his habits. The chessboard was always waiting
-for him, his corner table was always reserved; even when 
-Free eBooks at Planet eBook.com 365
-the place was full he had it to himself, since nobody cared
+for him, his corner table was always reserved; even when the place was full he had it to himself, since nobody cared
 to be seen sitting too close to him. He never even bothered
 to count his drinks. At irregular intervals they presented
 him with a dirty slip of paper which they said was the bill,
@@ -70,9 +66,7 @@ unvarying triumph of Good over Evil? The huge face gazed
 back at him, full of calm power. White always mates.
 The voice from the telescreen paused and added in a different and much graver tone: ‘You are warned to stand by
 for an important announcement at fifteen-thirty. Fifteenthirty! This is news of the highest importance. Take care
-not to miss it. Fifteen-thirty!’ The tinkling music struck up 
-366 1984
-again.
+not to miss it. Fifteen-thirty!’ The tinkling music struck up again.
 [Winston](https://classic-literature.fandom.com/wiki/Winston_Smith)’s heart stirred. That was the bulletin from the
 front; instinct told him that it was bad news that was coming. All day, with little spurts of excitement, the thought
 of a smashing defeat in Africa had been in and out of his
@@ -95,7 +89,6 @@ The spasm passed. He put the white knight back in its
 place, but for the moment he could not settle down to serious study of the chess problem. His thoughts wandered
 again. Almost unconsciously he traced with his finger in
 the dust on the table:
-Free eBooks at Planet eBook.com 367
 2+2=5
 ‘[They can’t get inside you](Part2-chapter7#turning-point),’ she had said. But they could
 get inside you. ‘What happens to you here is FOR EVER,’
@@ -121,9 +114,7 @@ grass as though trying to get rid of him, then seemed to resign herself to havin
 among a clump of ragged leafless shrubs, useless either for
 concealment or as protection from the wind. They halted.
 It was vilely cold. The wind whistled through the twigs and
-fretted the occasional, dirty-looking crocuses. He put his 
-368 1984
-arm round her waist.
+fretted the occasional, dirty-looking crocuses. He put his arm round her waist.
 There was no telescreen, but there must be hidden
 microphones: besides, they could be seen. It did not matter, nothing mattered. They could have lain down on the
 ground and done THAT if they had wanted to. His flesh
@@ -147,8 +138,7 @@ came purely out of the past or whether it was inspired also
 by his bloated face and the water that the wind kept squeezing from his eyes. They sat down on two iron chairs, side by
 side but not too close together. He saw that she was about
 to speak. She moved her clumsy shoe a few centimetres and
-deliberately crushed a twig. Her feet seemed to have grown 
-Free eBooks at Planet eBook.com 369
+deliberately crushed a twig. Her feet seemed to have grown
 broader, he noticed.
 ‘I betrayed you,’ she said baldly.
 ‘I betrayed you,’ he said.
@@ -176,9 +166,7 @@ it was too cold to keep still. She said something about catching her Tube and st
 ‘Yes,’ she said, ‘we must meet again.’
 He followed irresolutely for a little distance, half a pace
 behind her. They did not speak again. She did not actually
-try to shake him off, but walked at just such a speed as to 
-370 1984
-prevent his keeping abreast of her. He had made up his mind
+try to shake him off, but walked at just such a speed as to prevent his keeping abreast of her. He had made up his mind
 that he would accompany her as far as the Tube station, but
 suddenly this process of trailing along in the cold seemed
 pointless and unbearable. He was overwhelmed by a desire
@@ -204,9 +192,7 @@ telescreen. A cracked and jeering note, a yellow note, came
 into it. And then—perhaps it was not happening, perhaps
 it was only a memory taking on the semblance of sound—a
 voice was singing:
-‘Under the spreading chestnut tree 
-Free eBooks at Planet eBook.com 371
-I sold you and you sold me——’
+‘Under the spreading chestnut tree I sold you and you sold me——’
 The tears welled up in his eyes. A passing waiter noticed
 that his glass was empty and came back with the gin bottle.
 He took up his glass and sniffed at it. The stuff grew
@@ -229,9 +215,7 @@ with minor difficulties that arose in the compilation of the
 Eleventh Edition of the Newspeak Dictionary. They were
 engaged in producing something called an Interim Report,
 but what it was that they were reporting on he had never
-definitely found out. It was something to do with the question of whether commas should be placed inside brackets, 
-372 1984
-or outside. There were four others on the committee, all of
+definitely found out. It was something to do with the question of whether commas should be placed inside brackets, or outside. There were four others on the committee, all of
 them persons similar to himself. There were days when they
 assembled and then promptly dispersed again, frankly admitting to one another that there was not really anything to
 be done. But there were other days when they settled down
@@ -257,9 +241,7 @@ gin, picked up the white knight and made a tentative move.
 Check. But it was evidently not the right move, because——
 Uncalled, a memory floated into his mind. He saw a
 candle-lit room with a vast white-counterpaned bed, and
-himself, a boy of nine or ten, sitting on the floor, shaking 
-Free eBooks at Planet eBook.com 373
-a dice-box, and laughing excitedly. His mother was sitting
+himself, a boy of nine or ten, sitting on the floor, shaking a dice-box, and laughing excitedly. His mother was sitting
 opposite him and also laughing.
 It must have been about a month before she disappeared.
 It was a moment of reconciliation, when the nagging hunger in his belly was forgotten and his earlier affection for
@@ -282,9 +264,7 @@ thing sulkily and without interest. But then his mother lit a
 piece of candle and they sat down on the floor to play. Soon
 he was wildly excited and shouting with laughter as the tiddly-winks climbed hopefully up the ladders and then came
 slithering down the snakes again, almost to the startingpoint. They played eight games, winning four each. His tiny
-sister, too young to understand what the game was about, 
-374 1984
-had sat propped up against a bolster, laughing because the
+sister, too young to understand what the game was about, had sat propped up against a bolster, laughing because the
 others were laughing. For a whole afternoon they had all
 been happy together, as in his earlier childhood.
 He pushed the picture out of his mind. It was a false
@@ -308,8 +288,7 @@ secretly assembled a sudden blow in the enemy’s rear, the
 white arrow tearing across the tail of the black. Fragments
 of triumphant phrases pushed themselves through the din:
 ‘Vast strategic manoeuvre—perfect co-ordination—utter
-rout—half a million prisoners—complete demoralization—control of the whole of Africa—bring the war within 
-Free eBooks at Planet eBook.com 375
+rout—half a million prisoners—complete demoralization—control of the whole of Africa—bring the war within
 measurable distance of its end—victory—greatest victory
 in human history—victory, victory, victory!’
 Under the table [Winston](https://classic-literature.fandom.com/wiki/Winston_Smith)’s feet made convulsive movements. He had not stirred from his seat, but in his mind
@@ -333,15 +312,13 @@ with everything forgiven, his soul white as snow. He was in
 the public dock, confessing everything, implicating everybody. He was walking down the white-tiled corridor, with
 the feeling of walking in sunlight, and an armed guard at
 his back. The long-hoped-for bullet was entering his brain.
-He gazed up at the enormous face. Forty years it had tak-
-376 1984
-en him to learn what kind of smile was hidden beneath the
+He gazed up at the enormous face. Forty years it had taken him to learn what kind of smile was hidden beneath the
 dark moustache. O cruel, needless misunderstanding! O
 stubborn, self-willed exile from the loving breast! Two ginscented tears trickled down the sides of his nose. But it was
 all right, everything was all right, the struggle was finished.
 He had won the victory over himself. He loved Big Brother.
 THE END
-APPENDIX.
+<!-- APPENDIX.
 The Principles of Newspeak
 Newspeak was the official language of Oceania and
 had been devised to meet the ideological needs of Ingsoc,
@@ -357,9 +334,7 @@ a provisional one, and contained many superfluous words
 and archaic formations which were due to be suppressed
 later. It is with the final, perfected version, as embodied in
 the Eleventh Edition of the Dictionary, that we are concerned here.
-The purpose of Newspeak was not only to provide a 
-Free eBooks at Planet eBook.com 377
-medium of expression for the world-view and mental habits proper to the devotees of Ingsoc, but to make all other
+The purpose of Newspeak was not only to provide a medium of expression for the world-view and mental habits proper to the devotees of Ingsoc, but to make all other
 modes of thought impossible. It was intended that when
 Newspeak had been adopted once and for all and Oldspeak
 forgotten, a heretical thought—that is, a thought diverging
@@ -380,9 +355,7 @@ could be dispensed with was allowed to survive. Newspeak
 was designed not to extend but to DIMINISH the range of
 thought, and this purpose was indirectly assisted by cutting
 the choice of words down to a minimum.
-Newspeak was founded on the English language as we 
-378 1984
-now know it, though many Newspeak sentences, even when
+Newspeak was founded on the English language as we now know it, though many Newspeak sentences, even when
 not containing newly-created words, would be barely intelligible to an English-speaker of our own day. Newspeak
 words were divided into three distinct classes, known as
 the A vocabulary, the B vocabulary (also called compound
@@ -405,9 +378,7 @@ expressing ONE clearly understood concept. It would have
 been quite impossible to use the A vocabulary for literary
 purposes or for political or philosophical discussion. It was
 intended only to express simple, purposive thoughts, usually involving concrete objects or physical actions.
-The grammar of Newspeak had two outstanding peculiarities. The first of these was an almost complete 
-Free eBooks at Planet eBook.com 379
-interchangeability between different parts of speech. Any
+The grammar of Newspeak had two outstanding peculiarities. The first of these was an almost complete interchangeability between different parts of speech. Any
 word in the language (in principle this applied even to very
 abstract words such as IF or WHEN) could be used either
 as verb, noun, adjective, or adverb. Between the verb and
@@ -430,9 +401,7 @@ very few already ending in -WISE: the -WISE termination
 was invariable. The word WELL, for example, was replaced
 by GOODWISE.
 In addition, any word—this again applied in principle
-to every word in the language—could be negatived by add-
-380 1984
-ing the affix UN-, or could be strengthened by the affix
+to every word in the language—could be negatived by adding the affix UN-, or could be strengthened by the affix
 PLUS-, or, for still greater emphasis, DOUBLEPLUS-. Thus,
 for example, UNCOLD meant ‘warm’, while PLUSCOLD
 and DOUBLEPLUSCOLD meant, respectively, ‘very cold’
@@ -455,9 +424,7 @@ GAVE, BROUGHT, SPOKE, TAKEN, etc., being abolished.
 All plurals were made by adding -S or -ES as the case might
 be. The plurals OF MAN, OX, LIFE, were MANS, OXES,
 LIFES. Comparison of adjectives was invariably made by
-adding -ER, -EST (GOOD, GOODER, GOODEST), irregular forms and the MORE, MOST formation being 
-Free eBooks at Planet eBook.com 381
-suppressed.
+adding -ER, -EST (GOOD, GOODER, GOODEST), irregular forms and the MORE, MOST formation being suppressed.
 The only classes of words that were still allowed to inflect
 irregularly were the pronouns, the relatives, the demonstrative adjectives, and the auxiliary verbs. All of these followed
 their ancient usage, except that WHOM had been scrapped
@@ -482,9 +449,7 @@ they could be translated into Oldspeak, or even into words
 taken from the A vocabulary, but this usually demanded
 a long paraphrase and always involved the loss of certain
 overtones. The B words were a sort of verbal shorthand, often packing whole ranges of ideas into a few syllables, and
-at the same time more accurate and forcible than ordinary 
-382 1984
-language.
+at the same time more accurate and forcible than ordinary language.
 The B words were in all cases compound words. [Compound words such as SPEAKWRITE, were of course to be
 found in the A vocabulary, but these were merely convenient
 abbreviations and had no special ideologcal colour.] They
@@ -506,9 +471,7 @@ and in the latter word POLICE had lost its second syllable.
 Because of the great difficulty in securing euphony, irregular formations were commoner in the B vocabulary than
 in the A vocabulary. For example, the adjective forms of
 MINITRUE, MINIPAX, and MINILUV were, respectively,
-MINITRUTHFUL, MINIPEACEFUL, and MINILOVELY, 
-Free eBooks at Planet eBook.com 383
-simply because -TRUEFUL, -PAXFUL, and -LOVEFUL
+MINITRUTHFUL, MINIPEACEFUL, and MINILOVELY, simply because -TRUEFUL, -PAXFUL, and -LOVEFUL
 were slightly awkward to pronounce. In principle, however,
 all B words could inflect, and all inflected in exactly the
 same way.
@@ -531,9 +494,7 @@ was one, was not so much to express meanings as to destroy them. These words, ne
 had their meanings extended until they contained within
 themselves whole batteries of words which, as they were
 sufficiently covered by a single comprehensive term, could
-now be scrapped and forgotten. The greatest difficulty facing the compilers of the Newspeak Dictionary was not to 
-384 1984
-invent new words, but, having invented them, to make sure
+now be scrapped and forgotten. The greatest difficulty facing the compilers of the Newspeak Dictionary was not to invent new words, but, having invented them, to make sure
 what they meant: to make sure, that is to say, what ranges of
 words they cancelled by their existence.
 As we have already seen in the case of the word FREE,
@@ -557,9 +518,7 @@ that all gods with other names or other attributes were false
 gods. In somewhat the same way, the party member knew
 what constituted right conduct, and in exceedingly vague,
 generalized terms he knew what kinds of departure from
-it were possible. His sexual life, for example, was entirely 
-Free eBooks at Planet eBook.com 385
-regulated by the two Newspeak words SEXCRIME (sexual immorality) and GOODSEX (chastity). SEXCRIME
+it were possible. His sexual life, for example, was entirely regulated by the two Newspeak words SEXCRIME (sexual immorality) and GOODSEX (chastity). SEXCRIME
 covered all sexual misdeeds whatever. It covered fornication, adultery, homosexuality, and other perversions, and,
 in addition, normal intercourse practised for its own sake.
 There was no need to enumerate them separately, since they
@@ -580,9 +539,7 @@ as JOYCAMP (forced-labour camp) or MINIPAX Ministry of Peace, i.e. Ministry of W
 opposite of what they appeared to mean. Some words, on
 the other hand, displayed a frank and contemptuous understanding of the real nature of Oceanic society. An
 example was PROLEFEED, meaning the rubbishy entertainment and spurious news which the Party handed out
-to the masses. Other words, again, were ambivalent, having the connotation ‘good’ when applied to the Party and 
-386 1984
-‘bad’ when applied to its enemies. But in addition there were
+to the masses. Other words, again, were ambivalent, having the connotation ‘good’ when applied to the Party and ‘bad’ when applied to its enemies. But in addition there were
 great numbers of words which at first sight appeared to be
 mere abbreviations and which derived their ideological colour not from their meaning, but from their structure.
 So far as it could be contrived, everything that had or
@@ -604,9 +561,7 @@ COMINTERN, INPRECORR, AGITPROP. In the beginning the practice had been adopted a
 but in Newspeak it was used with a conscious purpose. It
 was perceived that in thus abbreviating a name one narrowed and subtly altered its meaning, by cutting out most of
 the associations that would otherwise cling to it. The words
-COMMUNIST INTERNATIONAL, for instance, call up 
-Free eBooks at Planet eBook.com 387
-a composite picture of universal human brotherhood, red
+COMMUNIST INTERNATIONAL, for instance, call up a composite picture of universal human brotherhood, red
 flags, barricades, Karl Marx, and the Paris Commune. The
 word COMINTERN, on the other hand, suggests merely a
 tightly-knit organization and a well-defined body of doctrine. It refers to something almost as easily recognized,
@@ -629,9 +584,7 @@ all of them were very much alike. Almost invariably these
 words—GOODTHINK, MINIPAX, PROLEFEED, SEXCRIME, JOYCAMP, INGSOC, BELLYFEEL, THINKPOL,
 and countless others—were words of two or three syllables,
 with the stress distributed equally between the first syllable
-and the last. The use of them encouraged a gabbling style of 
-388 1984
-speech, at once staccato and monotonous. And this was exactly what was aimed at. The intention was to make speech,
+and the last. The use of them encouraged a gabbling style of speech, at once staccato and monotonous. And this was exactly what was aimed at. The intention was to make speech,
 and especially speech on any subject not ideologically neutral, as nearly as possible independent of consciousness. For
 the purposes of everyday life it was no doubt necessary, or
 sometimes necessary, to reflect before speaking, but a Party
@@ -653,9 +606,7 @@ all. This aim was frankly admitted in the Newspeak word
 DUCKSPEAK, meaning ‘to quack like a duck’. Like various
 other words in the B vocabulary, DUCKSPEAK was ambivalent in meaning. Provided that the opinions which were
 quacked out were orthodox ones, it implied nothing but
-praise, and when ‘The Times’ referred to one of the orators 
-Free eBooks at Planet eBook.com 389
-of the Party as a DOUBLEPLUSGOOD DUCKSPEAKER it
+praise, and when ‘The Times’ referred to one of the orators of the Party as a DOUBLEPLUSGOOD DUCKSPEAKER it
 was paying a warm and valued compliment.
 THE C VOCABULARY. The C vocabulary was supplementary to the others and consisted entirely of scientific
 and technical terms. These resembled the scientific terms
@@ -676,9 +627,7 @@ low level, was well-nigh impossible. It was of course possible to utter heresies
 blasphemy. It would have been possible, for example, to say
 BIG BROTHER IS UNGOOD. But this statement, which
 to an orthodox ear merely conveyed a self-evident absurdity, could not have been sustained by reasoned argument,
-because the necessary words were not available. Ideas inim-
-390 1984
-ical to Ingsoc could only be entertained in a vague wordless
+because the necessary words were not available. Ideas inimical to Ingsoc could only be entertained in a vague wordless
 form, and could only be named in very broad terms which
 lumped together and condemned whole groups of heresies
 without defining them in doing so. One could, in fact, only
@@ -701,9 +650,7 @@ had never heard of chess would be aware of the secondary
 meanings attaching to QUEEN and ROOK. There would
 be many crimes and errors which it would be beyond his
 power to commit, simply because they were nameless and
-therefore unimaginable. And it was to be foreseen that with 
-Free eBooks at Planet eBook.com 391
-the passage of time the distinguishing characteristics of
+therefore unimaginable. And it was to be foreseen that with the passage of time the distinguishing characteristics of
 Newspeak would become more and more pronounced—its
 words growing fewer and fewer, their meanings more and
 more rigid, and the chance of putting them to improper
@@ -727,9 +674,7 @@ WE HOLD THESE TRUTHS TO BE SELF-EVIDENT,
 THAT ALL MEN ARE CREATED EQUAL, THAT THEY
 ARE ENDOWED BY THEIR CREATOR WITH CERTAIN
 INALIENABLE RIGHTS, THAT AMONG THESE ARE
-LIFE, LIBERTY, AND THE PURSUIT OF HAPPINESS. 
-392 1984
-THAT TO SECURE THESE RIGHTS, GOVERNMENTS ARE
+LIFE, LIBERTY, AND THE PURSUIT OF HAPPINESS. THAT TO SECURE THESE RIGHTS, GOVERNMENTS ARE
 INSTITUTED AMONG MEN, DERIVING THEIR POWERS
 FROM THE CONSENT OF THE GOVERNED. THAT
 WHENEVER ANY FORM OF GOVERNMENT BECOMES
@@ -751,9 +696,7 @@ of the past, would be destroyed. These translations were
 a slow and difficult business, and it was not expected that
 they would be finished before the first or second decade of
 the twenty-first century. There were also large quantities of
-merely utilitarian literature—indispensable technical man-
-Free eBooks at Planet eBook.com 393
-uals, and the like—that had to be treated in the same way. It
+merely utilitarian literature—indispensable technical manuals, and the like—that had to be treated in the same way. It
 was chiefly in order to allow time for the preliminary work
 of translation that the final adoption of Newspeak had been
-fixed for so late a date as 2050.
+fixed for so late a date as 2050. -->
