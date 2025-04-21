@@ -125,3 +125,4 @@ body {
   padding: 0 .05em;      /* tighten background around words */
 }
 
+.mode-gutenberg .highlight-block { display: none; }
