@@ -166,3 +166,14 @@ body {
 }
 
 .mode-gutenberg .highlight-block { display: none; }
+
+#btn-summary {
+  padding: 0.5rem 1rem;
+  font-size: 1rem;
+  margin-bottom: 0.5rem;
+}
+
+#summary-container h3 {
+  margin-bottom: 0.3rem;
+}
+

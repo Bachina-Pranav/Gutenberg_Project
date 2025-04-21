@@ -1,9 +1,20 @@
 from pathlib import Path
 import json
 from flask import Flask, render_template, url_for, redirect
+from flask import request, jsonify
 from markdown import markdown
 from markupsafe import Markup
 import re
+
+import os
+from dotenv import load_dotenv
+import cohere
+
+# load .env
+load_dotenv()
+COHERE_API_KEY = os.getenv("COHERE_API_KEY")
+print(COHERE_API_KEY)
+co = cohere.Client(COHERE_API_KEY)
 
 app = Flask(__name__)
 CHAPTER_DIR = Path(__file__).parent / "chapters"
@@ -101,6 +112,24 @@ import re
 @app.template_filter('strip_links')
 def strip_links(html):
     return Markup(re.sub(r'<a[^>]*>(.*?)</a>', r'\1', html, flags=re.DOTALL))
+
+@app.route("/post/<slug>/summarize", methods=["POST"])
+def summarize(slug):
+    # find the markdown file
+    md_path = CHAPTER_DIR / f"{slug}.md"
+    if not md_path.exists():
+        return jsonify(error="Not found"), 404
+
+    text = md_path.read_text(encoding="utf-8")
+    # send to Cohere’s summarization endpoint
+    # adjust model & parameters as you like
+    response = co.summarize(
+      model="summarize-xlarge",  # free-trial supported model
+      length="short",
+      text=text
+    )
+    summary = response.summary
+    return jsonify(summary=summary)
 
 if __name__ == "__main__":
     app.run(debug=True)

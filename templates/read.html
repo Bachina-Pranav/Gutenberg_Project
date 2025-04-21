@@ -4,6 +4,10 @@
   {# “Back to graph” link for single‑chapter post mode #}
   {% if mode == 'post' and chapters|length == 1 %}
     <p><a href="{{ url_for('post_graph') }}">← Back to graph</a></p>
+    <p>
+      <button id="btn-summary">Generate summary</button>
+    </p>
+    <div id="summary-container" style="margin-top:1rem;"></div>
   {% endif %}
 
   {% for ch in chapters %}
