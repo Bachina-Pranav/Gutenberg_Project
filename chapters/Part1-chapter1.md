@@ -14,7 +14,23 @@ above his right ankle, went slowly, resting several times on
 the way. On each landing, opposite the lift-shaft, the poster
 with the enormous face gazed from the wall. It was one of
 those pictures which are so contrived that the eyes follow
-you about when you move. BIG BROTHER IS WATCHING
+you about when you move. 
+<div class="note-wrapper">
+ 
+ <span class="note-anchor">
+ BIG BROTHER IS WATCHING YOU
+ </span>
+ 
+ <aside class="note-card">
+   <strong>Community note</strong><br>
+   This omnipresent slogan is the Party’s ultimate reminder  
+     of its ever-watchful surveillance. “Big Brother”  
+     symbolizes both a leader and the all‑seeing state,  
+     conditioning citizens to self‑censor out of fear that  
+     they’re always being watched—even in private thoughts.
+ </aside>
+ 
+ </div>
 YOU, the caption beneath it ran.
 Inside the flat a fruity voice was reading out a list of figures which had something to do with the production of
 pig-iron. The voice came from an oblong metal plaque like
