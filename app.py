@@ -3,6 +3,7 @@ import json
 from flask import Flask, render_template, url_for, redirect
 from markdown import markdown
 from markupsafe import Markup
+import re
 
 app = Flask(__name__)
 CHAPTER_DIR = Path(__file__).parent / "chapters"
@@ -15,6 +16,9 @@ def load_chapters():
     for p in sorted(CHAPTER_DIR.glob("*.md")):
         raw = p.read_text(encoding="utf-8")
         title = raw.splitlines()[0].lstrip("# ").strip() if raw.startswith("#") else p.stem
+        title = re.sub(r'([A-Za-z]+)(\d+)', r'\1 \2', title)
+        title = title.replace('-', ', ')
+        title = title.title()
         html  = Markup(markdown(raw, extensions=["fenced_code", "toc"]))
         chapters.append({"slug": p.stem, "title": title, "html": html})
     return chapters
