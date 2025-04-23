@@ -91,6 +91,7 @@ enormous pyramidal structure of glittering white concrete, soaring up, terrace a
 air. From where [Winston](https://classic-literature.fandom.com/wiki/Winston_Smith) stood it was just possible to read,
 picked out on its white face in elegant lettering, the three
 slogans of the Party:
+
 <div id="party-slogan" class="highlight-block">
   WAR IS PEACE<br/>
   FREEDOM IS SLAVERY<br/>

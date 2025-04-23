@@ -131,5 +131,39 @@ def summarize(slug):
     summary = response.summary
     return jsonify(summary=summary)
 
+@app.template_filter("strip_extras")
+def strip_extras(html: str):
+    """
+    • Keep plain anchor text from <div class="note-wrapper"> … </div>
+    • Keep slogan text from <div class="highlight-block"> … </div>
+    • Drop highlight-badge + note-card completely
+    """
+    # note-wrapper  ➜  inner <span class="note-anchor">TEXT</span>
+    html = re.sub(
+        r'<div class="note-wrapper">.*?<span[^>]*class="note-anchor"[^>]*>(.*?)</span>.*?</div>',
+        r'\1',
+        html,
+        flags=re.DOTALL,
+    )
+
+    # highlight-badge: just delete it
+    html = re.sub(
+        r'<span[^>]*class="highlight-badge"[^>]*>.*?</span>', '', html, flags=re.DOTALL
+    )
+
+    # highlight-block  ➜  plain inner text (strip any leftover tags)
+    def _strip_block(m):
+        inner = re.sub(r'<[^>]+>', '', m.group(1))
+        return inner.strip()
+
+    html = re.sub(
+        r'<div[^>]*class="highlight-block"[^>]*>(.*?)</div>',
+        _strip_block,
+        html,
+        flags=re.DOTALL,
+    )
+
+    return Markup(html)
+
 if __name__ == "__main__":
     app.run(debug=True)

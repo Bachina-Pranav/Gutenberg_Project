@@ -18,7 +18,7 @@
       {% if dictionary_enabled %}
         {{ ch.html|safe }}
       {% else %}
-        {{ ch.html|strip_links|safe }}
+        {{ ch.html|strip_links|strip_extras|safe }}
       {% endif %}
 
     </article>
